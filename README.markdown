@@ -1,14 +1,19 @@
 # Open data
 
+# Introduction
+
+Open data is data that is available to the public for their unrestricted use.  All levels of government generate significant data.  Examples might include hospital utilization rates, commercial vehicle inspections, and first responder dispatches.  When released and accessible in machine readable formats, the data may provide socially valuable insights for effective government and commercially viable applications for software entrepreneurs. A study by McKinsey estimated that the value of open data could be 3 trillion dollars globally.
+
+
+
 - [louisville open data portal](https://data.louisvilleky.gov)
 
 ![louisville open data portal screenshot](imgs/2019-01-19_louisville_open_data_portal.png)
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+# 50 State Comparison Open Data Portals
+
+The sites tend to be of three kinds:  transparency, geographic information system (GIS) or the more comprehensive open data portal. Much of the table below was prepared, excepting some formatting changes,  by [Meta S. Brown, States Offer Information Resources: 50+ Open Data Portals, Forbes (Apr. 30, 2018)](https://www.forbes.com/sites/metabrown/2018/04/30/us-states-offer-information-resources-50-open-data-portals/#9377e3452257).
 
 | ﻿state                | url                                                              | type | enactment |
 |----------------------|------------------------------------------------------------------|------|-----------|
