@@ -1,0 +1,56 @@
+"state","url","type","enactment","data_portal_rank"
+"Hawaii","http://data.hawaii.gov/http://gis.hicentral.com/","gis",NA,1
+"Illinois","http://data.illinois.gov/","data",NA,1
+"Maryland","https://data.maryland.gov/","data",NA,1
+"New York","https://data.ny.gov/","data",NA,1
+"Oklahoma","http://www.ok.gov/about/data.html","data",NA,1
+"Utah","http://www.utah.gov/data/","data",NA,1
+"Connecticut","http://transparency.ct.gov/html/main.asp","data",NA,7
+"Texas","https://data.texas.gov/","data",NA,7
+"New Hampshire","http://nhopengovt.org/","data",NA,9
+"Rhode Island","http://www.ri.gov/data/","data",NA,9
+"California","http://data.ca.gov/","data",NA,11
+"Michigan","http://www.michigan.gov/data/","data",NA,11
+"Missouri","http://data.mo.gov/","data",NA,11
+"New Jersey","https://data.nj.gov/http://njogis-newjersey.opendata.arcgis.com/","gis",NA,11
+"Oregon","http://data.oregon.gov/","data",NA,11
+"Vermont","https://data.vermont.gov/","data",NA,11
+"Vermont","http://geodata.vermont.gov/","data",NA,11
+"Colorado","https://data.colorado.gov/","data",NA,17
+"Delaware","https://delaware.gov/topics/data.shtml","data",NA,17
+"Indiana","http://www.stats.indiana.edu/","data",NA,17
+"Iowa","http://data.iowa.gov/","data",NA,17
+"Maine","http://www.maine.gov/data/","data",NA,17
+"Minnesota","http://mn.gov/portal/","data",NA,17
+"Montana","http://data.mt.gov/","data",NA,17
+"Montana","http://gis-mdt.opendata.arcgis.com/","gis",NA,17
+"Nebraska","https://www.nebraskamap.gov/","gis",NA,17
+"Nebraska","http://www.nebraska.gov/government/open-data/","data",NA,17
+"North Carolina","http://www.ncopenbook.gov/","data",NA,17
+"Ohio","http://transparency.ohio.gov/","data",NA,17
+"Virginia","http://data.virginia.gov","data",NA,17
+"Washington","http://data.wa.gov/","data",NA,17
+"Wisconsin","https://legis.wisconsin.gov/ltsb/gis/data/","gis",NA,17
+"Arizona","http://openbooks.az.gov/","data",NA,30
+"Arkansas","http://transparency.arkansas.gov/","data",NA,30
+"Florida","https://www.floridahasarighttoknow.myflorida.com/","data",NA,30
+"Florida","http://myflorida-floridadisaster.opendata.arcgis.com/","gis",NA,30
+"Georgia","http://www.open.georgia.gov/","open",NA,30
+"Idaho","http://data.gis.idaho.gov/","gis",NA,30
+"Kentucky","https://kygeoportal.ky.gov/geoportal/catalog/main/home.page","gis",NA,30
+"Kentucky","https://transparency.ky.gov/Pages/default.aspx","data",NA,30
+"Mississippi","http://opendata.gis.ms.gov/","gis",NA,30
+"New Mexico","http://www.sunshineportalnm.com/","data",NA,30
+"North Dakota","http://www.nd.gov/gis/","gis",NA,30
+"Pennsylvania","https://data.pa.gov/","data",NA,30
+"South Carolina","http://www.sc.gov/Pages/dataDashboard.aspx","data",NA,30
+"South Carolina","http://www.gis.sc.gov/data.html","gis",NA,30
+"Tennessee","http://tn-tnmap.opendata.arcgis.com/","gis",NA,30
+"West Virginia","http://www.mapwv.gov/help-gisdata.php","gis",NA,30
+"Alabama","http://open.alabama.gov/","data",NA,43
+"Alaska","https://data.alaska.gov/","data",NA,43
+"Kansas","http://www.kansas.gov/KanView/","data",NA,43
+"Louisiana","https://wwwcfprd.doa.louisiana.gov/latrac/portal.cfm","data",NA,43
+"Massachusetts","http://www.mass.gov/opendata/#/","data",NA,43
+"South Dakota","http://open.sd.gov/","data",NA,43
+"Wyoming","http://geospatialhub.org/","gis",NA,43
