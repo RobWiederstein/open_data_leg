@@ -6,13 +6,11 @@
 
 ## Introduction
 
-Open data is data that is available to the public for their unrestricted use.  All levels of government generate significant data.  Examples might include hospital utilization rates, commercial vehicle inspections, and first responder dispatches.  When released and accessible in machine readable formats, the data may provide socially valuable insights for effective government and commercially viable applications for software entrepreneurs. A study by McKinsey estimated that the value of open data could be 3 trillion dollars globally.
+Increased connectivity and greater bandwidth had provided for an ever growing amount of data transmission.  Those who see this as an opportunity to make more informed and quicker decisions have a competitive edge.  Governments are a leading purveyor of critical data which can be paired with proprietary data for greater insight.  In a 2013 [report]() McKinsey and Company estimated that the value of open data could be 3 trillion dollars globally.  Open data is data that is available to the public for their unrestricted use.  All levels of government generate significant data.  Examples might include hospital utilization rates, commercial vehicle inspections, and first responder dispatches.  When released and accessible in machine readable formats, the data may provide socially valuable insights for effective government and commercially viable applications for software entrepreneurs.
 
 ## Kentucky
 
-Kentucky provides a [portal](http://kygeonet.ky.gov) for GIS data and a second [portal](https://transparency.ky.gov/Pages/default.aspx) for transparency data.  While there are many data sets available from different Kentucky agencies, there is no centralized portal as in other states for their dissemination, nor are they provided in many situations in a machine-readable or liquid format.
-
-The Center for Data Innovation ranked the states on many criteria.  Kentucky was ranked 36th overall.  When broken down by subject area, Kentucky was ranked
+Kentucky provides a [portal](http://kygeonet.ky.gov) for GIS data and a second [portal](https://transparency.ky.gov/Pages/default.aspx) for transparency data.  While there are many data sets available from different Kentucky agencies, there is no centralized portal as in other states for their dissemination, nor are they provided in many situations in a machine-readable or liquid format.  The Center for Data Innovation ranked the states on many criteria.  Kentucky was ranked 36th overall.  When broken down by subject area, Kentucky was ranked
 - 1st for education data
 - 9th in transit systems
 - 12th in building energy efficiency
@@ -33,16 +31,21 @@ The Center for Data Innovation ranked the states on many criteria.  Kentucky was
 - 34th in computer science and statistics AP
 - 35th in open data 500 companies
 - 35th federal funding in for data science R & D funding
-- 38th in developming human & business capital
+- 38th in developing human & business capital
 - 38th for data availability
 - 39th in software service jobs
 - 44th in broadband
 - 45th in STEM degrees
 - 47th in data science job listings
 - 48th for legislative data
+-
 ## 50 State Comparison Open Data Portals
 
-The sites tend to be of three kinds:  transparency, geographic information system (GIS) or the more comprehensive open data portal. Much of the table below was prepared, excepting some formatting changes,  by [Meta S. Brown, States Offer Information Resources: 50+ Open Data Portals, Forbes (Apr. 30, 2018)](https://www.forbes.com/sites/metabrown/2018/04/30/us-states-offer-information-resources-50-open-data-portals/#9377e3452257).
+The sites tend to be of three kinds:  transparency, geographic information system (GIS) or the more comprehensive open data portal. Much of the table below was prepared by [Meta S. Brown, States Offer Information Resources: 50+ Open Data Portals, Forbes (Apr. 30, 2018)](https://www.forbes.com/sites/metabrown/2018/04/30/us-states-offer-information-resources-50-open-data-portals/#9377e3452257). In some states, both the sites for GIS and open data were included.  The data were then merged with the open data portal rankings by the Center for Data Innovation.
+
+There were six top ranked states.  The Center for Data Innovation stated that these six states were highlighted because "they have specific open-data policies, open-data portals and machine-readibility written into their open data policies." Incorporating the requirement of machine-readibility into law allows developers immediate access to usable data.  The McKinsey report, mentioned above, uses the phrase "liquid" instead of machine-readable.  Too often Kentucky's data, where available, is in a pdf format making it very difficult to convert to a machine-readable format.  
+
+
 
 | state          | url                                                              | type | enactment | data_portal_rank |
 |----------------|------------------------------------------------------------------|------|-----------|------------------|
@@ -101,3 +104,11 @@ The sites tend to be of three kinds:  transparency, geographic information syste
 | Massachusetts  | http://www.mass.gov/opendata/#/                                  | data | NA        | 43               |
 | South Dakota   | http://open.sd.gov/                                              | data | NA        | 43               |
 | Wyoming        | http://geospatialhub.org/                                        | gis  | NA        | 43               |
+
+## Weaknesses in the Evaluation
+
+This writeup is dependent solely on the Center for Data Innovation's rankings.  The author is unaware to the degree that this organization is affiliated with any particular industry or political group.  Uniform resource links (URLs) are subject to change and the individual links have not been verified to connect to actual web pages.
+
+## Conclusion
+
+Kentucky's budget is constrained.  Creating an environment that promotes the use and dispersal of data 
