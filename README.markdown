@@ -11,12 +11,13 @@
 	- [Kentucky's Current Technology Structure](#kentuckys-current-technology-structure)
 	- [50 State Comparison Open Data Portals](#50-state-comparison-open-data-portals)
 	- [Enacted Open Data Legislation in Top States](#enacted-open-data-legislation-in-top-states)
+		- [[Hawaii]().](#hawaii)
+		- [[Illinois](enactments/2014-01-01_illinois_open_records_act.pdf).](#illinoisenactments2014-01-01illinoisopenrecordsactpdf)
 	- [Other Helpful resources](#other-helpful-resources)
 	- [Weaknesses in the Evaluation](#weaknesses-in-the-evaluation)
 	- [Conclusion](#conclusion)
 
 <!-- /TOC -->
-
 # The Open Data Movement
 
 ## Introduction
