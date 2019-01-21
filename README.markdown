@@ -127,14 +127,17 @@ There were six top ranked states.  The Center for Data Innovation stated that th
 
 ## Other Helpful resources
 
-| ﻿resources,url,note                           |                                                                                                                                |
-|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| Best States for Data Innovation,https        | //www.datainnovation.org/2017/07/the-best-states-for-data-innovation/,                                                         |
-| Center for Data Innovation,https             | //www.datainnovation.org,Excellent resource.                                                                                   |
-| NCSL Open Data ,http                         | //www.ncsl.org/research/telecommunications-and-information-technology/open-data-legislation.aspx,2010 through 2018 Legislation |
-| Open Knowledge Int'l,https                   | //okfn.org,"global not-for-profit that promotes free, open data"                                                               |
-| Socrata,https                                | //socrata.com,Cloud-based database services for public sector                                                                  |
-| Sunlight Foundation Open Data Policies,https | //sunlightfoundation.com/opendataguidelines/,                                                                                  |                                     |
+| resources                              | url                                                                                                   | note                                                 |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| Best States for Data Innovation        | https://www.datainnovation.org/2017/07/the-best-states-for-data-innovation/                           | States ranked for technology.                        |
+| Center for Data Innovation             | https://www.datainnovation.org                                                                        | Excellent resource.                                  |
+| Code for America                       | https://www.codeforamerica.org                                                                        | Making government work for people.                   |
+| NCSL Open Data                         | http://www.ncsl.org/research/telecommunications-and-information-technology/open-data-legislation.aspx | 2010 through 2018 Legislation.                       |
+| Open Knowledge Int'l                   | https://okfn.org                                                                                      | global not-for-profit that promotes free, open data. |
+| Socrata                                | https://socrata.com                                                                                   | Cloud-based database services for public sector.     |
+| Sunlight Foundation Open Data Policies | https://sunlightfoundation.com/opendataguidelines/                                                    | Holding gov't accountable                            |
+
+                                |
 
 ## Weaknesses in the Evaluation
 
