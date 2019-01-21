@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Increased connectivity and greater bandwidth had provided for an ever growing amount of data transmission.  Those who see this as an opportunity to make more informed and quicker decisions have a competitive edge.  Governments are a leading purveyor of critical data which can be paired with proprietary data for greater insight.  In a 2013 [report]() McKinsey and Company estimated that the value of open data could be 3 trillion dollars globally.  Open data is data that is available to the public for their unrestricted use.  All levels of government generate significant data.  Examples might include hospital utilization rates, commercial vehicle inspections, and first responder dispatches.  When released and accessible in machine readable formats, the data may provide socially valuable insights for effective government and commercially viable applications for software entrepreneurs.
+Increased connectivity and greater bandwidth had provided for an ever growing amount of data transmission.  Those who see this as an opportunity to make more informed and quicker decisions have a competitive edge.  Governments are a leading purveyor of critical data which can be paired with proprietary data for greater insight.  In a 2013 [report](resources/2013-10-01_mckinsey_open_data_unlocking_innovation.pdf) McKinsey and Company estimated that the value of open data could be 3 trillion dollars globally.  Open data is data that is available to the public for their unrestricted use.  All levels of government generate significant data.  Examples might include hospital utilization rates, commercial vehicle inspections, and first responder dispatches.  When released and accessible in machine readable formats, the data may provide socially valuable insights for effective government and commercially viable applications for software entrepreneurs.
 
 ## Kentucky
 
@@ -38,7 +38,7 @@ Kentucky provides a [portal](http://kygeonet.ky.gov) for GIS data and a second [
 - 45th in STEM degrees
 - 47th in data science job listings
 - 48th for legislative data
--
+
 ## 50 State Comparison Open Data Portals
 
 The sites tend to be of three kinds:  transparency, geographic information system (GIS) or the more comprehensive open data portal. Much of the table below was prepared by [Meta S. Brown, States Offer Information Resources: 50+ Open Data Portals, Forbes (Apr. 30, 2018)](https://www.forbes.com/sites/metabrown/2018/04/30/us-states-offer-information-resources-50-open-data-portals/#9377e3452257). In some states, both the sites for GIS and open data were included.  The data were then merged with the open data portal rankings by the Center for Data Innovation.
@@ -111,4 +111,4 @@ This writeup is dependent solely on the Center for Data Innovation's rankings.  
 
 ## Conclusion
 
-Kentucky's budget is constrained.  Creating an environment that promotes the use and dispersal of data 
+Kentucky's budget is constrained.  Creating an environment that promotes the use and dispersal of data
