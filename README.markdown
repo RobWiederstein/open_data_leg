@@ -134,11 +134,14 @@ There were six top ranked states.  The Center for Data Innovation stated that th
 | South Dakota   | http://open.sd.gov/                                              | data | NA        | 43               |
 | Wyoming        | http://geospatialhub.org/                                        | gis  | NA        | 43               |
 
-##Enacted Open Data Legislation in Top States
+## Enacted Open Data Legislation in Top States
 
-Put in links of
+- [Hawaii]().
 
-hawaii
+- [Illinois](enactments/2014-01-01_illinois_open_records_act.pdf).  The adopted statute defines "cloud-computing", "data", "open operating standard", "public data", and "voluntary consensus standards body" among others.  The implementation portion of the statute reads, "There is hereby established an open operating standard to be known as the Illinois Open Data, for the State of Illinois.  Under this operating standard, each agency of State government under the jurisdiction of the Governor shall make available public data sets of public information." Another section requires that all data be located at a single url address and reads, "[p]ublic data sets that are made available on the internet shall be accessible through a single web portal that is linked to data.illinois.gov." The data sets must be formatted in a way that allows the public to be notified of updates; updated regularly; made available without registration, license requirements, or usage restrictions; and discoverable via external searches. Plan includes extensive deadlines on executive branch.
+
+
+
 illinois
 maryland
 new York
