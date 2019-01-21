@@ -31,6 +31,7 @@ Kentucky provides a [portal](http://kygeonet.ky.gov) for GIS data and a second [
 - 34th in computer science and statistics AP
 - 35th in open data 500 companies
 - 35th federal funding in for data science R & D funding
+- **36th overall**
 - 38th in developing human & business capital
 - 38th for data availability
 - 39th in software service jobs
