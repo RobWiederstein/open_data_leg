@@ -1,6 +1,6 @@
-![louisville open data portal screenshot](imgs/2019-01-19_louisville_open_data_portal.png)
+![oklahoma open data portal screenshot](imgs/2019-01-20_oklahoma_open_data_portal.png)
 
-- [louisville open data portal](https://data.louisvilleky.gov)
+- [Oklahoma open data portal](https://data.ok.gov)
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
