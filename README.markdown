@@ -10,6 +10,7 @@
 	- [Kentucky](#kentucky)
 	- [Kentucky's Current Technology Structure](#kentuckys-current-technology-structure)
 	- [50 State Comparison Open Data Portals](#50-state-comparison-open-data-portals)
+	- [Enacted Open Data Legislation in Top States](#enacted-open-data-legislation-in-top-states)
 	- [Other Helpful resources](#other-helpful-resources)
 	- [Weaknesses in the Evaluation](#weaknesses-in-the-evaluation)
 	- [Conclusion](#conclusion)
@@ -133,6 +134,17 @@ There were six top ranked states.  The Center for Data Innovation stated that th
 | South Dakota   | http://open.sd.gov/                                              | data | NA        | 43               |
 | Wyoming        | http://geospatialhub.org/                                        | gis  | NA        | 43               |
 
+##Enacted Open Data Legislation in Top States
+
+Put in links of
+
+hawaii
+illinois
+maryland
+new York
+Oklahoma
+Utah
+
 
 
 ## Other Helpful resources
@@ -149,7 +161,7 @@ There were six top ranked states.  The Center for Data Innovation stated that th
 
 ## Weaknesses in the Evaluation
 
-This writeup is dependent solely on the Center for Data Innovation's rankings.  The legal research focused on those states with a high ranking from the CDI. The organization is is headed by [Daniel Castro](https://www.linkedin.com/in/danieldcastro/) and affilliated with [Information Technology and Innovation Foundation](https://itif.org) (ITIF).  The ITIF is a 501(c)(3) and its latest 990 tax return can be found [here](resources/2018-02-28_information_technology_990_tax_return.pdf).  The author is unaware to the degree that this organization is affiliated with any particular industry or political group.  Uniform resource links (URLs) are subject to change and the individual links have not been verified to connect to actual web pages.  It is impossible for any one person to know the data kept by the different state agencies.  Some data should be confidential like data dealing with security and privacy issues.  However, these should not be used as a excuse for the sequestration of all data.  
+This writeup is depends heavily on the Center for Data Innovation's rankings.  The legal research focused on those states with a high ranking from the CDI. The organization is is headed by [Daniel Castro](https://www.linkedin.com/in/danieldcastro/) and affilliated with [Information Technology and Innovation Foundation](https://itif.org) (ITIF).  The ITIF is a 501(c)(3) and its latest 990 tax return can be found [here](resources/2018-02-28_information_technology_990_tax_return.pdf).  The author is unaware to the degree that this organization is affiliated with any particular industry or political group.    
 
 ## Conclusion
 
