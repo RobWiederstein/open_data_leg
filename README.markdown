@@ -1,6 +1,6 @@
 ![oklahoma open data portal screenshot](imgs/2019-01-20_oklahoma_open_data_portal.png)
 
-- [Oklahoma open data portal](https://data.ok.gov)
+- [Oklahoma top ranked open data portal](https://data.ok.gov)
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
@@ -149,7 +149,7 @@ There were six top ranked states.  The Center for Data Innovation stated that th
 
 ## Weaknesses in the Evaluation
 
-This writeup is dependent solely on the Center for Data Innovation's rankings.  The legal research focused on those states with a high ranking from the CDI. The organization is is headed by Daniel Castro and affilliated with Information Technology and Innovation Foundation (ITIF).  The ITIF is a 501(c)(3) and its latest 990 tax return can be found [here](resources/2018-02-28_information_technology_990_tax_return.pdf).  The author is unaware to the degree that this organization is affiliated with any particular industry or political group.  Uniform resource links (URLs) are subject to change and the individual links have not been verified to connect to actual web pages.  It is impossible for any one person to know the data kept by the different state agencies.  Some data should be confidential like data dealing with security and privacy issues.  However, these should not be used as a excuse for the sequestration of all data.  
+This writeup is dependent solely on the Center for Data Innovation's rankings.  The legal research focused on those states with a high ranking from the CDI. The organization is is headed by [Daniel Castro](https://www.linkedin.com/in/danieldcastro/) and affilliated with [Information Technology and Innovation Foundation](https://itif.org) (ITIF).  The ITIF is a 501(c)(3) and its latest 990 tax return can be found [here](resources/2018-02-28_information_technology_990_tax_return.pdf).  The author is unaware to the degree that this organization is affiliated with any particular industry or political group.  Uniform resource links (URLs) are subject to change and the individual links have not been verified to connect to actual web pages.  It is impossible for any one person to know the data kept by the different state agencies.  Some data should be confidential like data dealing with security and privacy issues.  However, these should not be used as a excuse for the sequestration of all data.  
 
 ## Conclusion
 
