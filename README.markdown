@@ -8,6 +8,7 @@
 	- [Introduction](#introduction)
 	- [United States' Open Data Developments](#united-states-open-data-developments)
 	- [Kentucky](#kentucky)
+	- [Kentucky's Current Technology Structure](#kentuckys-current-technology-structure)
 	- [50 State Comparison Open Data Portals](#50-state-comparison-open-data-portals)
 	- [Other Helpful resources](#other-helpful-resources)
 	- [Weaknesses in the Evaluation](#weaknesses-in-the-evaluation)
@@ -58,6 +59,13 @@ Kentucky provides a [portal](http://kygeonet.ky.gov) for GIS data and a second [
 - 45th in STEM degrees
 - 47th in data science job listings
 - 48th for legislative data
+
+## Kentucky's Current Technology Structure
+
+Kentucky's executive branch underwent signficant reorganization via an [executive order](enactments/2017-12-13_bevin_exec_order_.pdf) entered by Governor Bevin.  The Commonwealth Office of Technology is the umbrella technology office for the executive branch and the Executive Director of the Office of Technology is the principal advisor to the Governor. KRS 42.730. He or she also serves as the point of contact and spokesperson on all information technology and resources.  KRS 42.720.  The position also serves as the Chief Information Officer (CIO).
+
+![Office of Technology Organization Chart](imgs/2018-01-04_ky_office_of_technology_organizatoinal_chart.png)
+
 
 ## 50 State Comparison Open Data Portals
 
@@ -125,6 +133,8 @@ There were six top ranked states.  The Center for Data Innovation stated that th
 | South Dakota   | http://open.sd.gov/                                              | data | NA        | 43               |
 | Wyoming        | http://geospatialhub.org/                                        | gis  | NA        | 43               |
 
+
+
 ## Other Helpful resources
 
 | resources                              | url                                                                                                   | note                                                 |
@@ -137,11 +147,9 @@ There were six top ranked states.  The Center for Data Innovation stated that th
 | Socrata                                | https://socrata.com                                                                                   | Cloud-based database services for public sector.     |
 | Sunlight Foundation Open Data Policies | https://sunlightfoundation.com/opendataguidelines/                                                    | Holding gov't accountable                            |
 
-                                |
-
 ## Weaknesses in the Evaluation
 
-This writeup is dependent solely on the Center for Data Innovation's rankings.  The author is unaware to the degree that this organization is affiliated with any particular industry or political group.  Uniform resource links (URLs) are subject to change and the individual links have not been verified to connect to actual web pages.  It is impossible for any one person to know the data kept by the different state agencies.  Some data should be confidential like data dealing with security and privacy issues.  However, these should not be used as a excuse for the sequestration of all data.  
+This writeup is dependent solely on the Center for Data Innovation's rankings.  The legal research focused on those states with a high ranking from the CDI. The organization is is headed by Daniel Castro and affilliated with Information Technology and Innovation Foundation (ITIF).  The ITIF is a 501(c)(3) and its latest 990 tax return can be found [here](resources/2018-02-28_information_technology_990_tax_return.pdf).  The author is unaware to the degree that this organization is affiliated with any particular industry or political group.  Uniform resource links (URLs) are subject to change and the individual links have not been verified to connect to actual web pages.  It is impossible for any one person to know the data kept by the different state agencies.  Some data should be confidential like data dealing with security and privacy issues.  However, these should not be used as a excuse for the sequestration of all data.  
 
 ## Conclusion
 
