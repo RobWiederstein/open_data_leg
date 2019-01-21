@@ -6,6 +6,7 @@
 
 - [The Open Data Movement](#the-open-data-movement)
 	- [Introduction](#introduction)
+	- [United States' Open Data Developments](#united-states-open-data-developments)
 	- [Kentucky](#kentucky)
 	- [50 State Comparison Open Data Portals](#50-state-comparison-open-data-portals)
 	- [Other Helpful resources](#other-helpful-resources)
@@ -18,7 +19,13 @@
 
 ## Introduction
 
-Increased connectivity and greater bandwidth had provided for an ever growing amount of data transmission.  Those who see this as an opportunity to make more informed and quicker decisions have a competitive edge.  Governments are a leading purveyor of critical data which can be paired with proprietary data for greater insight.  In a 2013 [report](resources/2013-10-01_mckinsey_open_data_unlocking_innovation.pdf) McKinsey and Company estimated that the value of open data could be 3 trillion dollars globally.  Open data is data that is available to the public for their unrestricted use.  All levels of government generate significant data.  Examples might include hospital utilization rates, commercial vehicle inspections, and first responder dispatches.  When released and accessible in machine readable formats, the data may provide socially valuable insights for effective government and commercially viable applications for software entrepreneurs.
+Increased connectivity and greater bandwidth had provided for an ever growing amount of data transmission.  Those who see this as an opportunity to make more informed and quicker decisions have a competitive edge.  Governments are a leading purveyor of critical data which can be paired with proprietary data for greater insight.  In a 2013 [report](resources/2013-10-01_mckinsey_open_data_unlocking_innovation.pdf) McKinsey and Company estimated that the value of open data could be 3 trillion dollars globally.  
+
+Open data is data that is available to the public for their unrestricted use.  All levels of government generate significant data.  Examples might include hospital utilization rates, commercial vehicle inspections, and first responder dispatches.  When released and accessible in machine readable formats, the data may provide socially valuable insights for effective government and commercially viable applications for software entrepreneurs.
+
+## United States' Open Data Developments
+
+The United States era in open data began with an [executive order](enactments/2013-05-09_obama_executive_order_open_data.pdf) signed by Barak Obama in 2013.  In addition to giving some history of the open data movement, the order included specific implementation goals. One of the goals was for the Office of Management and Budget (OMB) to issue a [memorandum](enactments/2013-05-09_OMB_memorandum_open_data.pdf) implementing the principles in the executive order. the OMB memo directed agencies to use a "machine-readable, open" format, open licenses for end users, and common core, extensible metadata. (The memorandum is helpful and more understandable than statutory provisions.)    A more recent development in this area occurred in January, 2019.  President Trump signed the [Foundations for Evidence Based Policy Act](enactments/2019-01-19_US_foundations_for_evidence_based_policymaking.pdf).
 
 ## Kentucky
 
@@ -130,8 +137,8 @@ There were six top ranked states.  The Center for Data Innovation stated that th
 
 ## Weaknesses in the Evaluation
 
-This writeup is dependent solely on the Center for Data Innovation's rankings.  The author is unaware to the degree that this organization is affiliated with any particular industry or political group.  Uniform resource links (URLs) are subject to change and the individual links have not been verified to connect to actual web pages.
+This writeup is dependent solely on the Center for Data Innovation's rankings.  The author is unaware to the degree that this organization is affiliated with any particular industry or political group.  Uniform resource links (URLs) are subject to change and the individual links have not been verified to connect to actual web pages.  It is impossible for any one person to know the data kept by the different state agencies.  Some data should be confidential like data dealing with security and privacy issues.  However, these should not be used as a excuse for the sequestration of all data.  
 
 ## Conclusion
 
-Kentucky's budget is constrained.  Creating an environment that promotes the use and dispersal of data
+Kentucky's budget is constrained.  Creating a data-friendly environment can spur innovation and technology. Many of the data sets likely already exist but are not in a centralized location or in a shareable, machine-readable format.  
