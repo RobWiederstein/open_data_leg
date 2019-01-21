@@ -106,6 +106,16 @@ There were six top ranked states.  The Center for Data Innovation stated that th
 | South Dakota   | http://open.sd.gov/                                              | data | NA        | 43               |
 | Wyoming        | http://geospatialhub.org/                                        | gis  | NA        | 43               |
 
+## Other Helpful resources
+
+| ﻿resources                              | url                                                                                                   | note                                            |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| Best States for Data Innovation        | resources/2017-07-01_best_states_for_data_innovation.pdf                                              |                                                 |
+| Center for Data Innovation             | https://www.datainnovation.org                                                                        | Excellent resource.                             |
+| NCSL Open Data                         | http://www.ncsl.org/research/telecommunications-and-information-technology/open-data-legislation.aspx | 2010 through 2018 Legislation                   |
+| Socrata                                | https://socrata.com                                                                                   | Cloud-based database services for public sector |
+| Sunlight Foundation Open Data Policies | https://sunlightfoundation.com/opendataguidelines/                                                    |                                                 |
+
 ## Weaknesses in the Evaluation
 
 This writeup is dependent solely on the Center for Data Innovation's rankings.  The author is unaware to the degree that this organization is affiliated with any particular industry or political group.  Uniform resource links (URLs) are subject to change and the individual links have not been verified to connect to actual web pages.
