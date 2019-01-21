@@ -2,22 +2,7 @@
 
 - [Oklahoma top ranked open data portal](https://data.ok.gov)
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [The Open Data Movement](#the-open-data-movement)
-	- [Introduction](#introduction)
-	- [United States' Open Data Developments](#united-states-open-data-developments)
-	- [Kentucky](#kentucky)
-	- [Kentucky's Current Technology Structure](#kentuckys-current-technology-structure)
-	- [50 State Comparison Open Data Portals](#50-state-comparison-open-data-portals)
-	- [Enacted Open Data Legislation in Top States](#enacted-open-data-legislation-in-top-states)
-		- [[Hawaii]().](#hawaii)
-		- [Illinois](#illinois)
-	- [Other Helpful resources](#other-helpful-resources)
-	- [Weaknesses in the Evaluation](#weaknesses-in-the-evaluation)
-	- [Conclusion](#conclusion)
-
-<!-- /TOC -->
 # The Open Data Movement
 
 ## Introduction
@@ -137,17 +122,26 @@ There were six top ranked states.  The Center for Data Innovation stated that th
 
 ## Enacted Open Data Legislation in Top States
 
-### [Hawaii]().
+### Hawaii
 
 ### Illinois  
 
 The adopted [statute](enactments/2014-01-01_illinois_open_records_act.pdf) defines "cloud-computing", "data", "open operating standard", "public data", and "voluntary consensus standards body" among others.  The implementation portion of the statute reads, "There is hereby established an open operating standard to be known as the Illinois Open Data, for the State of Illinois.  Under this operating standard, each agency of State government under the jurisdiction of the Governor shall make available public data sets of public information." Another section requires that all data be located at a single url address and reads, "[p]ublic data sets that are made available on the internet shall be accessible through a single web portal that is linked to data.illinois.gov." The data sets must be formatted in a way that allows the public to be notified of updates; updated regularly; made available without registration, license requirements, or usage restrictions; and discoverable via external searches. Appears to require an "API" or application programming interface for sending and retrieving data.  Plan includes extensive deadlines on executive branch. Does not use the term machine-readable, but rather leaves formats to the discretion of executive. Prefers the use of cloud-computing as cost effective solution.  Data does not include a warranty of any kind and is assigned to the public domain.
 
 
+### Maryland
 
-illinois
-maryland
-new York
+The Maryland [statute](enactments/2014-03-31_maryland_open_data.pdf) defined the following terms:  data, data portal, data set, mapping and geographic information systems portal, open data, open data portal.  The statute declared the state's policy is that "open data be machine readable and released to the public in ways that make the data easy to find, accessible, and usable . . . ." (While the purpose included "machine readable", the term was not included in the definitions).  A Council on Open Data was created with 37 members.  The Council's main charge was carry out the express policy of the statute and make recommendations on legislation and regulations.
+
+
+### New York
+
+The New York [statute](enactments/2014-01-01_new_york_open_data_law.pdf) contains many definitions including:  data, data set, publishable state data, and technical standard. The enacting portion of the statute provides:
+
+>An online open data website for the collection and public dissemination of publishable state data is
+hereby established in the office of information technology services. The open data website shall be maintained at data.ny.gov  . . . . The open data website will provide access to publishable state data that is owned, controlled, collected or otherwise maintained by >covered state entities.
+
+
 Oklahoma
 Utah
 
@@ -171,4 +165,4 @@ This writeup is depends heavily on the Center for Data Innovation's rankings.  T
 
 ## Conclusion
 
-Kentucky's budget is constrained.  Creating a data-friendly environment can spur innovation and technology. Many of the data sets likely already exist but are not in a centralized location or in a shareable, machine-readable format.  
+Kentucky has taken the beginning steps in making government data available through a transparency and gis portal.  However, it is time to go further. By creating a central location for data in machine readable formats, Kentucky can become one of the top states in the open data movement.  Creating a data-friendly environment can spur innovation and technology.
