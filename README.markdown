@@ -186,4 +186,4 @@ This writeup is depends heavily on the Center for Data Innovation's rankings.  T
 
 ## Conclusion
 
-Kentucky has taken the beginning steps in making government data available through a transparency and gis portal.  However, it is time to go further. By creating a central location for data in machine readable formats, Kentucky can become one of the top states in the open data movement.  Creating a data-friendly environment can spur innovation and technology.
+Government data is valuable.  It belongs to the public and should be widely dissiminated and easily accessible.  Many states have created a centralized location to serve as a repository for this data and formatted it so that it can be shared.  While Kentucky has taken strong steps in the creation of a transparency and GIS portal, Kentucky can do more.  Kentucky should centralize its data in an open data portal in machine readable formts. Creating a data-centered state government can spur innovation, improve decision making, drive government transparency  and increase civic engagement.
