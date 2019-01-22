@@ -5,9 +5,9 @@
 
 - [The Open Data Movement](#the-open-data-movement)
 	- [Introduction](#introduction)
-	- [United States' Open Data Developments](#united-states-open-data-developments)
-	- [Kentucky](#kentucky)
-	- [Kentucky's Current Technology Structure](#kentuckys-current-technology-structure)
+		- [United States' Open Data Developments](#united-states-open-data-developments)
+		- [Kentucky Open Data Initiatives & Rankings](#kentucky-open-data-initiatives-rankings)
+		- [Kentucky's Current Technology Structure](#kentuckys-current-technology-structure)
 	- [50 State Comparison Open Data Portals](#50-state-comparison-open-data-portals)
 	- [Enacted Open Data Legislation in Top States](#enacted-open-data-legislation-in-top-states)
 		- [Hawaii](#hawaii)
@@ -28,11 +28,11 @@ Increased connectivity and greater bandwidth had provided for an ever growing am
 
 Open data is data that is available to the public for their unrestricted use.  All levels of government generate significant data.  Examples might include hospital utilization rates, commercial vehicle inspections, and first responder dispatches.  When released and accessible in machine readable formats, the data may provide socially valuable insights for effective government and commercially viable applications for software entrepreneurs.
 
-## United States' Open Data Developments
+### United States' Open Data Developments
 
 The United States era in open data began with an [executive order](enactments/2013-05-09_obama_executive_order_open_data.pdf) signed by Barak Obama in 2013.  In addition to giving some history of the open data movement, the order included specific implementation goals. One of the goals was for the Office of Management and Budget (OMB) to issue a [memorandum](enactments/2013-05-09_OMB_memorandum_open_data.pdf) implementing the principles in the executive order. the OMB memo directed agencies to use a "machine-readable, open" format, open licenses for end users, and common core, extensible metadata. (The memorandum is helpful and more understandable than statutory provisions.)    A more recent development in this area occurred in January, 2019.  President Trump signed the [Foundations for Evidence Based Policy Act](enactments/2019-01-19_US_foundations_for_evidence_based_policymaking.pdf).
 
-## Kentucky
+### Kentucky Open Data Initiatives & Rankings
 
 Kentucky provides a [portal](http://kygeonet.ky.gov) for GIS data and a second [portal](https://transparency.ky.gov/Pages/default.aspx) for transparency data.  While there are many data sets available from different Kentucky agencies, there is no centralized portal as in other states for their dissemination, nor are they provided in many situations in a machine-readable or liquid format.  The Center for Data Innovation ranked the states on many criteria.  Kentucky was ranked 36th overall.  When broken down by subject area, Kentucky was ranked
 - 1st for education data
@@ -64,7 +64,7 @@ Kentucky provides a [portal](http://kygeonet.ky.gov) for GIS data and a second [
 - 47th in data science job listings
 - 48th for legislative data
 
-## Kentucky's Current Technology Structure
+### Kentucky's Current Technology Structure
 
 Kentucky's executive branch underwent signficant reorganization via an [executive order](enactments/2017-12-13_bevin_exec_order_.pdf) entered by Governor Bevin.  The Commonwealth Office of Technology is the umbrella technology office for the executive branch and the Executive Director of the Office of Technology is the principal advisor to the Governor. KRS 42.730. He or she also serves as the point of contact and spokesperson on all information technology and resources.  KRS 42.720.  The position also serves as the Chief Information Officer (CIO).
 
