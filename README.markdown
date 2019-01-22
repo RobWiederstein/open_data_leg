@@ -1,7 +1,24 @@
 ![oklahoma open data portal screenshot](imgs/2019-01-20_oklahoma_open_data_portal.png)
 
 - [Oklahoma top ranked open data portal](https://data.ok.gov)
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [The Open Data Movement](#the-open-data-movement)
+	- [Introduction](#introduction)
+	- [United States' Open Data Developments](#united-states-open-data-developments)
+	- [Kentucky](#kentucky)
+	- [Kentucky's Current Technology Structure](#kentuckys-current-technology-structure)
+	- [50 State Comparison Open Data Portals](#50-state-comparison-open-data-portals)
+	- [Enacted Open Data Legislation in Top States](#enacted-open-data-legislation-in-top-states)
+		- [Hawaii](#hawaii)
+		- [Illinois](#illinois)
+		- [Maryland](#maryland)
+		- [New York](#new-york)
+	- [Other Helpful resources](#other-helpful-resources)
+	- [Weaknesses in the Evaluation](#weaknesses-in-the-evaluation)
+	- [Conclusion](#conclusion)
+
+<!-- /TOC -->
 
 # The Open Data Movement
 
@@ -139,7 +156,11 @@ The Maryland [statute](enactments/2014-03-31_maryland_open_data.pdf) defined the
 The New York [statute](enactments/2014-01-01_new_york_open_data_law.pdf) contains many definitions including:  data, data set, publishable state data, and technical standard. The enacting portion of the statute provides:
 
 >An online open data website for the collection and public dissemination of publishable state data is
-hereby established in the office of information technology services. The open data website shall be maintained at data.ny.gov  . . . . The open data website will provide access to publishable state data that is owned, controlled, collected or otherwise maintained by >covered state entities.
+hereby established in the office of information technology services. The open data website shall be maintained at data.ny.gov  . . . . The open data website will provide access to publishable state data that is owned, controlled, collected or otherwise maintained by covered state entities.
+
+The statute also provides a time line with a "data working group" to be formed 45 days after the act becomes law.  Within 60 days, each agency of the executive branch designate a data coordinator who can act on behalf of the agency.  Within 180 days, the Office of Information Technology shall publish guidelines for the purpose of making public data widely available.  Within one year, all publishable state data will be available on the web site.
+
+All "publishable state data" shall be "in a format that permits automated processing." Like the Illinois statute, New York requires the data sets to be formatted in a way that allows the public to be notified of updates; updated regularly; made available without registration, license requirements, or usage restrictions; and discoverable via external searches.  The statute also requires an application programming interface like Illinois.  New York boasts 1600 data sets as of January, 2019.
 
 
 Oklahoma
