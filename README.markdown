@@ -8,6 +8,7 @@
 		- [United States' Open Data Developments](#united-states-open-data-developments)
 		- [Kentucky Open Data Initiatives & Rankings](#kentucky-open-data-initiatives-rankings)
 		- [Kentucky's Current Technology Structure](#kentuckys-current-technology-structure)
+		- [Understanding Machine Readable, Liquid and Shareable Formats](#understanding-machine-readable-liquid-and-shareable-formats)
 	- [50 State Comparison Open Data Portals](#50-state-comparison-open-data-portals)
 	- [Enacted Open Data Legislation in Top States](#enacted-open-data-legislation-in-top-states)
 		- [Hawaii](#hawaii)
@@ -69,6 +70,8 @@ Kentucky provides a [portal](http://kygeonet.ky.gov) for GIS data and a second [
 Kentucky's executive branch underwent signficant reorganization via an [executive order](enactments/2017-12-13_bevin_exec_order_.pdf) entered by Governor Bevin.  The Commonwealth Office of Technology is the umbrella technology office for the executive branch and the Executive Director of the Office of Technology is the principal advisor to the Governor. KRS 42.730. He or she also serves as the point of contact and spokesperson on all information technology and resources.  KRS 42.720.  The position also serves as the Chief Information Officer (CIO).
 
 ![Office of Technology Organization Chart](imgs/2018-01-04_ky_office_of_technology_organizatoinal_chart.png)
+
+### Understanding Machine Readable, Liquid and Shareable Formats
 
 
 ## 50 State Comparison Open Data Portals
