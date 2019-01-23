@@ -1,6 +1,7 @@
-![oklahoma open data portal screenshot](imgs/2019-01-20_oklahoma_open_data_portal.png)
+![Utah open data portal screenshot](imgs/2019-01-23-utah_open_data_portal.png)
 
-- [Oklahoma top ranked open data portal](https://data.ok.gov)
+- [Utah top ranked open data portal powered by Socrata](https://data.ok.gov)
+
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [The Open Data Movement](#the-open-data-movement)
@@ -15,6 +16,8 @@
 		- [Illinois](#illinois)
 		- [Maryland](#maryland)
 		- [New York](#new-york)
+		- [Oklahoma](#oklahoma)
+		- [Utah](#utah)
 	- [Other Helpful resources](#other-helpful-resources)
 	- [Weaknesses in the Evaluation](#weaknesses-in-the-evaluation)
 	- [Conclusion](#conclusion)
@@ -73,7 +76,7 @@ Kentucky's executive branch underwent signficant reorganization via an [executiv
 
 ### Machine Readable, Liquid and Shareable Formats
 
-According to the [Open Data Handbook](http://opendatahandbook.org/glossary/en/terms/machine-readable/), machine readable data can be automatically read by a computer like csv (comma separated values), json (java script object notation), or xml (extensible markup language). The opposite of machine readable is human readable and would include non-structured data like handwriting and pdfs.  While pdfs are digital, a computer struggles to convert pdf tables into a machine readable format.  While the conversion is possible, it requires additional steps and can result in errors.  (For example, [Tabula](https://tabula.technology) can convert pdf tables into a csv format, but it is awkward.)
+According to the [Open Data Handbook](http://opendatahandbook.org/glossary/en/terms/machine-readable/), machine readable data can be automatically read by a computer like csv (comma separated values), json (java script object notation), or xml (extensible markup language). The opposite of machine readable is human readable and would include non-structured data like handwriting and pdfs.  While pdfs are digital, a computer struggles to convert pdf tables into a machine readable format.  While the conversion is possible, it requires additional steps and can result in errors.  (For example, [Tabula](https://tabula.technology) can convert pdf tables into a csv format, but it is time consuming.)
 
 
 ## 50 State Comparison Open Data Portals
@@ -168,8 +171,21 @@ The statute also provides a time line with a "data working group" to be formed 4
 All "publishable state data" shall be "in a format that permits automated processing." Like the Illinois statute, New York requires the data sets to be formatted in a way that allows the public to be notified of updates; updated regularly; made available without registration, license requirements, or usage restrictions; and discoverable via external searches.  The statute also requires an application programming interface like Illinois.  New York boasts 1600 data sets as of January, 2019.
 
 
-Oklahoma
-Utah
+### Oklahoma
+
+The origin of Oklahoma's open data movement began in 2010 as an effort to track the stimulus money.
+
+### Utah
+
+Utah updated its approach to public records and data in a 2014 [bill](enactments/2014-01-01_utah_open_data_portal.pdf).  Utah's open record policies are promulgated by a "Transparency Advisory Board" comprised of 13 members and they are charged with specific duties.  These duties revolve around what information is included and how it is to be presented to the public.  
+
+The 2014 legislation provided for an "information website", meaning a "single Internet website containing public information or links to public information." Regarding the information website, a new responsibility was added but all are set forth in total here:
+- study the establishment of an information website and develop recommendations for its establishment;
+- develop recommendations about how to make public information more readily available to the public through the information website;
+- develop standards to make uniform the format and accessibility of public information posted to the information website; and
+- identify and prioritize public information in the possession of a state agency or political subdivision that may be appropriate for publication on the information website.
+
+In a [fiscal note](enactments/2014-02-24_utah_open_data_portal_fiscal_note.pdf), the approximate one-time cost was $75,000 and the annual cost was $540,000.  
 
 
 
