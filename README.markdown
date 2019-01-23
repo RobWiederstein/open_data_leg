@@ -8,7 +8,7 @@
 		- [United States' Open Data Developments](#united-states-open-data-developments)
 		- [Kentucky Open Data Initiatives & Rankings](#kentucky-open-data-initiatives-rankings)
 		- [Kentucky's Current Technology Structure](#kentuckys-current-technology-structure)
-		- [Understanding Machine Readable, Liquid and Shareable Formats](#understanding-machine-readable-liquid-and-shareable-formats)
+		- [Machine Readable, Liquid and Shareable Formats](#machine-readable-liquid-and-shareable-formats)
 	- [50 State Comparison Open Data Portals](#50-state-comparison-open-data-portals)
 	- [Enacted Open Data Legislation in Top States](#enacted-open-data-legislation-in-top-states)
 		- [Hawaii](#hawaii)
@@ -71,7 +71,9 @@ Kentucky's executive branch underwent signficant reorganization via an [executiv
 
 ![Office of Technology Organization Chart](imgs/2018-01-04_ky_office_of_technology_organizatoinal_chart.png)
 
-### Understanding Machine Readable, Liquid and Shareable Formats
+### Machine Readable, Liquid and Shareable Formats
+
+According to the [Open Data Handbook](http://opendatahandbook.org/glossary/en/terms/machine-readable/), machine readable data can be automatically read by a computer like csv (comma separated values), json (java script object notation), or xml (extensible markup language). The opposite of machine readable is human readable and would include non-structured data like handwriting and pdfs.  While pdfs are digital, a computer struggles to convert pdf tables into a machine readable format.  While the conversion is possible, it requires additional steps and can result in errors.  (For example, [Tabula](https://tabula.technology) can convert pdf tables into a csv format, but it is awkward.)
 
 
 ## 50 State Comparison Open Data Portals
