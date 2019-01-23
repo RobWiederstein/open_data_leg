@@ -1,6 +1,6 @@
 ![Utah open data portal screenshot](imgs/2019-01-23-utah_open_data_portal.png)
 
-- [Utah top ranked open data portal powered by Socrata](https://data.ok.gov)
+- [Utah's top ranked open data portal powered by Socrata](https://data.ok.gov)
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
@@ -28,17 +28,17 @@
 
 ## Introduction
 
-Increased connectivity and greater bandwidth had provided for an ever growing amount of data transmission.  Those who see this as an opportunity to make more informed and quicker decisions have a competitive edge.  Governments are a leading purveyor of critical data which can be paired with proprietary data for greater insight.  In a 2013 [report](resources/2013-10-01_mckinsey_open_data_unlocking_innovation.pdf) McKinsey and Company estimated that the value of open data could be 3 trillion dollars globally.  
+Increased connectivity and greater bandwidth have provided for an ever growing amount of data access.  Those who see this as an opportunity to make more informed and quicker decisions have a competitive edge.  Governments are a leading purveyor of data which can often be paired with proprietary data for greater insight.  In a 2013 [report](resources/2013-10-01_mckinsey_open_data_unlocking_innovation.pdf) McKinsey and Company estimated that the value of open data could be 3 trillion dollars globally.  
 
-Open data is data that is available to the public for their unrestricted use.  All levels of government generate significant data.  Examples might include hospital utilization rates, commercial vehicle inspections, and first responder dispatches.  When released and accessible in machine readable formats, the data may provide socially valuable insights for effective government and commercially viable applications for software entrepreneurs.
+Open data is data that is available to the public for their unrestricted use.  All levels and branches of government generate significant data.  Examples might include hospital utilization rates, commercial vehicle inspections, and first responder dispatches.  When released and accessible in machine readable formats, the data may provide socially valuable insights for effective government and commercially viable applications for software entrepreneurs.
 
 ### United States' Open Data Developments
 
-The United States era in open data began with an [executive order](enactments/2013-05-09_obama_executive_order_open_data.pdf) signed by Barak Obama in 2013.  In addition to giving some history of the open data movement, the order included specific implementation goals. One of the goals was for the Office of Management and Budget (OMB) to issue a [memorandum](enactments/2013-05-09_OMB_memorandum_open_data.pdf) implementing the principles in the executive order. the OMB memo directed agencies to use a "machine-readable, open" format, open licenses for end users, and common core, extensible metadata. (The memorandum is helpful and more understandable than statutory provisions.)    A more recent development in this area occurred in January, 2019.  President Trump signed the [Foundations for Evidence Based Policy Act](enactments/2019-01-19_US_foundations_for_evidence_based_policymaking.pdf).
+The United States renewed its committment to open data with an [executive order](enactments/2013-05-09_obama_executive_order_open_data.pdf) signed by Barak Obama in 2013.  In addition to giving some history of the open data movement, the order included specific implementation goals. One of the goals was for the Office of Management and Budget (OMB) to issue a [memorandum](enactments/2013-05-09_OMB_memorandum_open_data.pdf) implementing the principles in the executive order. The OMB memo directed agencies to use a "machine-readable, open" format, open licenses for end users, and common core, extensible metadata. (The memorandum is helpful and more understandable than statutory provisions.)    A more recent development in this area occurred in January, 2019 when President Trump signed the [Foundations for Evidence Based Policy Act](enactments/2019-01-19_US_foundations_for_evidence_based_policymaking.pdf).
 
 ### Kentucky Open Data Initiatives & Rankings
 
-Kentucky provides a [portal](http://kygeonet.ky.gov) for GIS data and a second [portal](https://transparency.ky.gov/Pages/default.aspx) for transparency data.  While there are many data sets available from different Kentucky agencies, there is no centralized portal as in other states for their dissemination, nor are they provided in many situations in a machine-readable or liquid format.  The Center for Data Innovation ranked the states on many criteria.  Kentucky was ranked 36th overall.  When broken down by subject area, Kentucky was ranked
+Kentucky provides a [portal](http://kygeonet.ky.gov) for GIS data and a second [portal](https://transparency.ky.gov/Pages/default.aspx) for transparency data.  While there are many data sets available from different Kentucky agencies, there is no centralized portal as in other states for their dissemination, nor are they provided in many situations in a machine-readable or liquid format.  The CDI ranked the states on many criteria.  Kentucky was ranked 36th overall.  When broken down by subject area, Kentucky was ranked
 - 1st for education data
 - 9th in transit systems
 - 12th in building energy efficiency
@@ -70,20 +70,20 @@ Kentucky provides a [portal](http://kygeonet.ky.gov) for GIS data and a second [
 
 ### Kentucky's Current Technology Structure
 
-Kentucky's executive branch underwent signficant reorganization via an [executive order](enactments/2017-12-13_bevin_exec_order_.pdf) entered by Governor Bevin.  The Commonwealth Office of Technology is the umbrella technology office for the executive branch and the Executive Director of the Office of Technology is the principal advisor to the Governor. KRS 42.730. He or she also serves as the point of contact and spokesperson on all information technology and resources.  KRS 42.720.  The position also serves as the Chief Information Officer (CIO).
+Kentucky's executive branch underwent signficant reorganization via an [executive order](enactments/2017-12-13_bevin_exec_order_.pdf) entered by Governor Bevin in 2017.  The Commonwealth Office of Technology is the umbrella technology office for the executive branch and the Executive Director of the Office of Technology is the principal advisor to the Governor. KRS 42.730. He or she also serves as the point of contact and spokesperson on all information technology and resources.  KRS 42.720.  The position also serves as the Chief Information Officer (CIO).
 
 ![Office of Technology Organization Chart](imgs/2018-01-04_ky_office_of_technology_organizatoinal_chart.png)
 
 ### Machine Readable, Liquid and Shareable Formats
 
-According to the [Open Data Handbook](http://opendatahandbook.org/glossary/en/terms/machine-readable/), machine readable data can be automatically read by a computer like csv (comma separated values), json (java script object notation), or xml (extensible markup language). The opposite of machine readable is human readable and would include non-structured data like handwriting and pdfs.  While pdfs are digital, a computer struggles to convert pdf tables into a machine readable format.  While the conversion is possible, it requires additional steps and can result in errors.  (For example, [Tabula](https://tabula.technology) can convert pdf tables into a csv format, but it is time consuming.)
+According to the [Open Data Handbook](http://opendatahandbook.org/glossary/en/terms/machine-readable/), machine readable data can be automatically read by a computer like csv (comma separated values), json (java script object notation), or xml (extensible markup language). The opposite of machine readable is human readable and would include non-structured data like handwriting and pdfs.  While pdfs are digital, a computer struggles to convert pdf tables into a machine readable format.  While the conversion is possible, it requires additional steps and can result in errors.  (For example, [Tabula](https://tabula.technology) can convert pdf tables into a csv format, but it is time consuming and designed for smaller data sets.)
 
 
 ## 50 State Comparison Open Data Portals
 
-The sites tend to be of three kinds:  transparency, geographic information system (GIS) or the more comprehensive open data portal. Much of the table below was prepared by [Meta S. Brown, States Offer Information Resources: 50+ Open Data Portals, Forbes (Apr. 30, 2018)](https://www.forbes.com/sites/metabrown/2018/04/30/us-states-offer-information-resources-50-open-data-portals/#9377e3452257). In some states, both the sites for GIS and open data were included.  The data were then merged with the open data portal rankings by the Center for Data Innovation.
+The sites tend to be of three kinds:  transparency, geographic information system (GIS) or the more comprehensive open data portal. Much of the table below was prepared by [Meta S. Brown, States Offer Information Resources: 50+ Open Data Portals, Forbes (Apr. 30, 2018)](https://www.forbes.com/sites/metabrown/2018/04/30/us-states-offer-information-resources-50-open-data-portals/#9377e3452257). In some states, both the sites for GIS and open data were included.  The data were then merged with the open data portal rankings by the [Center for Data Innovation](https://www.datainnovation.org) ("CDI").
 
-There were six top ranked states.  The Center for Data Innovation stated that these six states were highlighted because "they have specific open-data policies, open-data portals and machine-readibility written into their open data policies." Incorporating the requirement of machine-readibility into law allows developers immediate access to usable data.  The McKinsey report, mentioned above, uses the phrase "liquid" instead of machine-readable.  Too often Kentucky's data, where available, is in a pdf format making it very difficult to convert to a machine-readable format.  
+There were six top ranked states.  The CDI stated that these six states were highlighted because "they have specific open-data policies, open-data portals and machine-readibility written into their open data policies." Incorporating the requirement of machine-readibility into law allows developers immediate access to usable data.  The McKinsey report, mentioned above, uses the phrase "liquid" instead of machine-readable.  Too often Kentucky's data, where available, is in a pdf format making it very difficult to convert to a machine-readable format.  
 
 
 
@@ -203,7 +203,7 @@ In a [fiscal note](enactments/2014-02-24_utah_open_data_portal_fiscal_note.pdf),
 
 ## Weaknesses in the Evaluation
 
-This writeup is depends heavily on the Center for Data Innovation's rankings.  The legal research focused on those states with a high ranking from the CDI. The organization is is headed by [Daniel Castro](https://www.linkedin.com/in/danieldcastro/) and affilliated with [Information Technology and Innovation Foundation](https://itif.org) (ITIF).  The ITIF is a 501(c)(3) and its latest 990 tax return can be found [here](resources/2018-02-28_information_technology_990_tax_return.pdf).  The author is unaware to the degree that this organization is affiliated with any particular industry or political group.    
+This writeup is depends heavily on the CDI's rankings.  The legal research focused on those states with a high ranking from the CDI. The organization is is headed by [Daniel Castro](https://www.linkedin.com/in/danieldcastro/) and affilliated with [Information Technology and Innovation Foundation](https://itif.org) (ITIF).  The ITIF is a 501(c)(3) and its latest 990 tax return can be found [here](resources/2018-02-28_information_technology_990_tax_return.pdf).  The author is unaware to the degree that this organization is affiliated with any particular industry or political group.    
 
 ## Conclusion
 
