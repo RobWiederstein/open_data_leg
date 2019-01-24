@@ -204,7 +204,7 @@ In a [fiscal note](enactments/2014-02-24_utah_open_data_portal_fiscal_note.pdf),
 
 ## Weaknesses in the Evaluation
 
-This writeup is depends heavily on the CDI's rankings.  The legal research focused on those states with a high ranking from the CDI. The organization is is headed by [Daniel Castro](https://www.linkedin.com/in/danieldcastro/) and affilliated with [Information Technology and Innovation Foundation](https://itif.org) (ITIF).  The ITIF is a 501(c)(3) and its latest 990 tax return can be found [here](resources/2018-02-28_information_technology_990_tax_return.pdf).  The author is unaware to the degree that this organization is affiliated with any particular industry or political group.    
+This writeup depends heavily on the CDI's rankings.  The legal research focused on those states with a high ranking from the CDI. The organization is is headed by [Daniel Castro](https://www.linkedin.com/in/danieldcastro/) and affilliated with [Information Technology and Innovation Foundation](https://itif.org) (ITIF).  The ITIF is a 501(c)(3) and its latest 990 tax return can be found [here](resources/2018-02-28_information_technology_990_tax_return.pdf).  The author is unaware to the degree that this organization is affiliated with any particular industry or political group.    
 
 ## Conclusion
 
