@@ -1,0 +1,56 @@
+state,url,type,data_portal_rank
+Hawaii,http://data.hawaii.gov/,data,1
+Illinois,http://data.illinois.gov/,data,1
+Maryland,https://data.maryland.gov/,data,1
+New York,https://data.ny.gov/,data,1
+Oklahoma,http://www.ok.gov/about/data.html,data,1
+Utah,http://www.utah.gov/data/,data,1
+Connecticut,http://transparency.ct.gov/html/main.asp,data,7
+Texas,https://data.texas.gov/,data,7
+New Hampshire,http://nhopengovt.org/,data,9
+Rhode Island,http://www.ri.gov/data/,data,9
+California,http://data.ca.gov/,data,11
+Michigan,http://www.michigan.gov/data/,data,11
+Missouri,http://data.mo.gov/,data,11
+New Jersey,https://data.nj.gov/,data,11
+Oregon,http://data.oregon.gov/,data,11
+Vermont,https://data.vermont.gov/,data,11
+Vermont,http://geodata.vermont.gov/,data,11
+Colorado,https://data.colorado.gov/,data,17
+Delaware,https://delaware.gov/topics/data.shtml,data,17
+Indiana,http://www.stats.indiana.edu/,data,17
+Iowa,http://data.iowa.gov/,data,17
+Maine,http://www.maine.gov/data/,data,17
+Minnesota,http://mn.gov/portal/,data,17
+Montana,http://data.mt.gov/,data,17
+Montana,http://gis-mdt.opendata.arcgis.com/,gis,17
+Nebraska,https://www.nebraskamap.gov/,gis,17
+Nebraska,http://www.nebraska.gov/government/open-data/,data,17
+North Carolina,http://www.ncopenbook.gov/,data,17
+Ohio,http://transparency.ohio.gov/,data,17
+Virginia,http://data.virginia.gov,data,17
+Washington,http://data.wa.gov/,data,17
+Wisconsin,https://legis.wisconsin.gov/ltsb/gis/data/,gis,17
+Arizona,http://openbooks.az.gov/,data,30
+Arkansas,http://transparency.arkansas.gov/,data,30
+Florida,https://www.floridahasarighttoknow.myflorida.com/,data,30
+Florida,http://myflorida-floridadisaster.opendata.arcgis.com/,gis,30
+Georgia,http://www.open.georgia.gov/,open,30
+Idaho,http://data.gis.idaho.gov/,gis,30
+Kentucky,https://kygeoportal.ky.gov/geoportal/catalog/main/home.page,gis,30
+Kentucky,https://transparency.ky.gov/Pages/default.aspx,data,30
+Mississippi,http://opendata.gis.ms.gov/,gis,30
+New Mexico,http://www.sunshineportalnm.com/,data,30
+North Dakota,http://www.nd.gov/gis/,gis,30
+Pennsylvania,https://data.pa.gov/,data,30
+South Carolina,http://www.sc.gov/Pages/dataDashboard.aspx,data,30
+South Carolina,http://www.gis.sc.gov/data.html,gis,30
+Tennessee,http://tn-tnmap.opendata.arcgis.com/,gis,30
+West Virginia,http://www.mapwv.gov/help-gisdata.php,gis,30
+Alabama,http://open.alabama.gov/,data,43
+Alaska,https://data.alaska.gov/,data,43
+Kansas,http://www.kansas.gov/KanView/,data,43
+Louisiana,https://wwwcfprd.doa.louisiana.gov/latrac/portal.cfm,data,43
+Massachusetts,http://www.mass.gov/opendata/#/,data,43
+South Dakota,http://open.sd.gov/,data,43
+Wyoming,http://geospatialhub.org/,gis,43
