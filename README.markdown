@@ -70,7 +70,15 @@ Kentucky provides a [portal](http://kygeonet.ky.gov) for GIS data and a second [
 
 ### Kentucky's Current Technology Structure
 
-Kentucky's executive branch underwent signficant reorganization via an [executive order](enactments/2017-12-13_bevin_exec_order_.pdf) entered by Governor Bevin in 2017.  The Commonwealth Office of Technology is the umbrella technology office for the executive branch and the Executive Director of the Office of Technology is the principal advisor to the Governor. KRS 42.730. He or she also serves as the point of contact and spokesperson on all information technology and resources.  KRS 42.720.  The position also serves as the Chief Information Officer (CIO).
+Issues regarding technology are assigned to the Commonwealth Office of Technology.   [KRS 42.724](enactments/2019-01-25_krs_42.724.pdf); [KRS 42.726](enactments/2019-01-25_krs_42.726.pdf). The office was created within the Finance and Administration Cabinet.  [KRS 42.724](enactments/2019-01-25_krs_42.724.pdf). The head of the office is both its executive director and the chief information officer for the state.  While appointed by the Secretary of the Finance and Administration Cabinet, the appointment must be approved by the Governor.  [KRS 42.724](enactments/2019-01-25_krs_42.724.pdf).
+
+Among its many responsibilities, the Office of Technology is to develop
+- "strategies and policies to support and promote . . . electronic public access to information of the Commonwealth." [KRS 42.726(2)(c)](enactments/2019-01-25_krs_42.726.pdf).
+- establish "a central statewide geographic information clearinghouse to maintain map inventories." [KRS 42.726(2)(j)](enactments/2019-01-25_krs_42.726.pdf).
+- provide "staff support and technical assistance to the Geographic Information Advisory Council and the Kentucky Information Technology Advisory Council." [KRS 42.726(2)(n)](enactments/2019-01-25_krs_42.726.pdf).
+- submit an annual report to the LRC in accordance with KRS 57.390.[KRS 42.726(5)](enactments/2019-01-25_krs_42.726.pdf)
+
+ Kentucky's executive branch underwent signficant reorganization via an [executive order](enactments/2017-12-13_bevin_exec_order_.pdf) entered by Governor Bevin in 2017.  The Commonwealth Office of Technology is the umbrella technology office for the executive branch and the Executive Director of the Office of Technology is the principal advisor to the Governor. KRS 42.730. He or she also serves as the point of contact and spokesperson on all information technology and resources.  KRS 42.720.  The position also serves as the Chief Information Officer (CIO).
 
 ![Office of Technology Organization Chart](imgs/2018-01-04_ky_office_of_technology_organizatoinal_chart.png)
 
