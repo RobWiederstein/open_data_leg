@@ -182,11 +182,11 @@ All "publishable state data" shall be "in a format that permits automated proces
 
 ### Oklahoma
 
-"Open technology standards", "application programming interface", "performance information metrics" and "convenience information sets" are all defined under the Oklahoma statute.  [62 Ok. Stat. Sec. 34.11.1(I)](enactments/2019-01-25_ok_62_34_11 pages 77 - 87.pdf).  
+"Open technology standards", "application programming interface", "performance information metrics" and "convenience information sets" are all defined under the Oklahoma statute.  [62 Ok. Stat. Sec. 34.11.1(I)](enactments/2019-01-25_ok_62_34_11.pdf).  
 
-The Chief Information Officer (CIO) is required to "source and submit" to the "State Governmental Technology Applications Review Board" (hereinafter "Technology Board"), employee performance metrics, convenience information sets and other data streams for publication on Oklahoma's open data portal.  [62 Ok. Stat. Sec. 34.11.1.1.1(A)](enactments/2019-01-25_ok_62_34_11 pages 77 - 87.pdf).
+The Chief Information Officer (CIO) is required to "source and submit" to the "State Governmental Technology Applications Review Board" (hereinafter "Technology Board"), employee performance metrics, convenience information sets and other data streams for publication on Oklahoma's open data portal.  [62 Ok. Stat. Sec. 34.11.1.1.1(A)](enactments/2019-01-25_ok_62_34_11.pdf).
 
-The Technology Board is to establish "open technology standards" and a schedule for state agencies to adopt the standards.  The state agencies are to publish and update data sets which "shall be accessible through standardized application programming interfaces and published in standardized formats" like extensible markup language (XML) and comma separated values (CSV). [62 Ok Stat. Sec. 34.11.2](enactments/2019-01-25_ok_62_34_11 pages 77 - 87.pdf)
+The Technology Board is to establish "open technology standards" and a schedule for state agencies to adopt the standards.  The state agencies are to publish and update data sets which "shall be accessible through standardized application programming interfaces and published in standardized formats" like extensible markup language (XML) and comma separated values (CSV). [62 Ok Stat. Sec. 34.11.2](enactments/2019-01-25_ok_62_34_11.pdf)
 
 The open data portal should give priority to those data sets that are most often requested by the public.  
 
