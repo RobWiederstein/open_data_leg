@@ -206,16 +206,17 @@ In a [fiscal note](enactments/2014-02-24_utah_open_data_portal_fiscal_note.pdf),
 
 
 ## Other Helpful resources
+| resources                          | url                                                                                                   | note                                                 |
+|------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| Best States for Data Innovation    | https://www.datainnovation.org/2017/07/the-best-states-for-data-innovation/                           | States ranked for technology.                        |
+| Center for Data Innovation         | https://www.datainnovation.org                                                                        | Excellent resource.                                  |
+| Code for America                   | https://www.codeforamerica.org                                                                        | Making government work for people.                   |
+| NCSL Open Data                     | http://www.ncsl.org/research/telecommunications-and-information-technology/open-data-legislation.aspx | 2010 through 2018 Legislation.                       |
+| Open Knowledge Int'l               | https://okfn.org                                                                                      | Global not-for-profit that promotes free, open data. |
+| Socrata                            | https://socrata.com                                                                                   | Cloud-based database services for public sector.     |
+| Sunlight Found. Open Data Policies | https://sunlightfoundation.com/opendataguidelines/                                                    | Holding gov't accountable.                           |
 
-| resources                              | url                                                                                                   | note                                                 |
-|----------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------|
-| Best States for Data Innovation        | https://www.datainnovation.org/2017/07/the-best-states-for-data-innovation/                           | States ranked for technology.                        |
-| Center for Data Innovation             | https://www.datainnovation.org                                                                        | Excellent resource.                                  |
-| Code for America                       | https://www.codeforamerica.org                                                                        | Making government work for people.                   |
-| NCSL Open Data                         | http://www.ncsl.org/research/telecommunications-and-information-technology/open-data-legislation.aspx | 2010 through 2018 Legislation.                       |
-| Open Knowledge Int'l                   | https://okfn.org                                                                                      | global not-for-profit that promotes free, open data. |
-| Socrata                                | https://socrata.com                                                                                   | Cloud-based database services for public sector.     |
-| Sunlight Foundation Open Data Policies | https://sunlightfoundation.com/opendataguidelines/                                                    | Holding gov't accountable                            |
+
 
 ## Weaknesses in the Evaluation
 
