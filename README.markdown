@@ -78,7 +78,9 @@ Among its many responsibilities, the Office of Technology is to develop
 - provide "staff support and technical assistance to the Geographic Information Advisory Council and the Kentucky Information Technology Advisory Council." [KRS 42.726(2)(n)](enactments/2019-01-25_krs_42.726.pdf).
 - submit an annual report to the LRC in accordance with KRS 57.390.[KRS 42.726(5)](enactments/2019-01-25_krs_42.726.pdf)
 
- Kentucky's executive branch underwent signficant reorganization via an [executive order](enactments/2017-12-13_bevin_exec_order_.pdf) entered by Governor Bevin in 2017.  The Commonwealth Office of Technology is the umbrella technology office for the executive branch and the Executive Director of the Office of Technology is the principal advisor to the Governor. KRS 42.730. He or she also serves as the point of contact and spokesperson on all information technology and resources.  KRS 42.720.  The position also serves as the Chief Information Officer (CIO).
+The Commonwealth Office of Technology is advised by two statutorily established boards:  the Geographic Information Advisory Council and the Kentucky Information Technology Advisory Council.
+
+ Kentucky's executive branch underwent signficant reorganization via an [executive order](enactments/2017-12-13_bevin_exec_order_.pdf) entered by Governor Bevin in 2017.  The Executive Director of the Commonwealth Office of Technology declared as the Chief Information Officer of all agencies within the Executive Branch of the state.  All "agency information technology leads" are to report to both their current cabinet/ agency head and to the Commonwealth Office of Technology's Chief Information Officer.
 
 ![Office of Technology Organization Chart](imgs/2018-01-04_ky_office_of_technology_organizatoinal_chart.png)
 
@@ -234,4 +236,4 @@ This writeup depends heavily on the CDI's rankings.  The legal research focused 
 
 ## Conclusion
 
-Government data is valuable.  It belongs to the public and should be widely distributed, easily accessible and intensely comprehensive.  Many states have created a centralized location to serve as a repository for this data; formatted it so that it can be shared; and created a board to shepherd the data to the public.  While Kentucky has taken strong steps in the creation of a transparency and GIS portal, Kentucky can do more.  Kentucky should centralize its massive data in an open data portal in machine readable formats. Creating a data-driven state government can spur innovation, improve decision making, drive government transparency  and increase civic engagement.
+Government data is valuable.  It belongs to the public and should be widely distributed, easily accessible and intensely comprehensive.  Many states have created a centralized location to serve as a repository for this data; formatted it so that it can be shared; and created a board to shepherd the data to the public.  While Kentucky has taken strong steps in the creation of a transparency and GIS portal, Kentucky can do more.  Kentucky should centralize its data in an open data portal in machine readable formats. Creating a data-driven state government can spur innovation, improve decision making, drive government transparency  and increase civic engagement.
