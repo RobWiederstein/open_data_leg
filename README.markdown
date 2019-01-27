@@ -38,7 +38,7 @@ The United States renewed its committment to open data with an [executive order]
 
 ### Kentucky Open Data Initiatives & Rankings
 
-Kentucky provides a [portal](http://kygeonet.ky.gov) for GIS data and a second [portal](https://transparency.ky.gov/Pages/default.aspx) for transparency data.  While there are many data sets available from different Kentucky agencies, there is no centralized portal as in other states for their dissemination, nor are they provided in many situations in a machine-readable or liquid format.  The [Center for Data Innovation](https://www.datainnovation.org) ("CDI") ranked the states on many criteria.  Kentucky was ranked 36th overall.  When broken down by subject area, Kentucky was ranked
+Kentucky provides a [portal](http://kygeonet.ky.gov) for GIS data, a second [portal](https://transparency.ky.gov/Pages/default.aspx) for transparency data and a third [portal](https://onestop.ky.gov/Pages/default.aspx) for registering and operating a busienss.  While there are many data sets available from different Kentucky agencies, there is no centralized portal as in other states for their dissemination, nor are they provided in many situations in a machine-readable or liquid format.  The [Center for Data Innovation](https://www.datainnovation.org) ("CDI") ranked the states on many criteria.  Kentucky was ranked 36th overall.  When broken down by subject area, Kentucky was ranked
 - 1st for education data
 - 9th in transit systems
 - 12th in building energy efficiency
