@@ -42,7 +42,7 @@ Kentucky provides a [portal](http://kygeonet.ky.gov) for GIS data, a second [por
 - 1st for education data
 - 9th in transit systems
 - 12th in building energy efficiency
-- 12th in public access to government information
+- **12th in public access to government information**
 - 16th in electronic health records
 - 20th for government financial data
 - 21st in e-government
@@ -236,4 +236,4 @@ This writeup depends heavily on the CDI's rankings.  The legal research focused 
 
 ## Conclusion
 
-Government data is valuable.  It belongs to the public and should be widely distributed, easily accessible and intensely comprehensive.  Many states have created a centralized location to serve as a repository for this data; formatted it so that it can be shared; and created a board to shepherd the data to the public.  While Kentucky has taken strong steps in the creation of a transparency and GIS portal, Kentucky can do more.  Kentucky should centralize its data in an open data portal in machine readable formats. Creating a data-driven state government can spur innovation, improve decision making, drive government transparency  and increase civic engagement.
+Government data is valuable.  It belongs to the public and should be widely distributed, easily accessible and intensely comprehensive.  Many states have created a centralized location to serve as a repository for this data; formatted it so that it can be shared; and created a board to shepherd the data to the public.  While Kentucky has taken strong steps in the creation of specialized portals, Kentucky can do more.  Kentucky should centralize its data in an open data portal in machine readable formats. Creating a data-driven state government can spur innovation, improve decision making, drive government transparency  and increase civic engagement.
