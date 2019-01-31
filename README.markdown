@@ -225,6 +225,7 @@ In a [fiscal note](enactments/2014-02-24_utah_open_data_portal_fiscal_note.pdf),
 | Code for America                   | https://www.codeforamerica.org                                                                        | Making government work for people.                   |
 | NCSL Open Data                     | http://www.ncsl.org/research/telecommunications-and-information-technology/open-data-legislation.aspx | 2010 through 2018 Legislation.                       |
 | Open Knowledge Int'l               | https://okfn.org                                                                                      | Global not-for-profit that promotes free, open data. |
+| White House Open Data Repo         | https://github.com/project-open-data                                                                  | White House Open Data site.                          |
 | Socrata                            | https://socrata.com                                                                                   | Cloud-based database services for public sector.     |
 | Sunlight Found. Open Data Policies | https://sunlightfoundation.com/opendataguidelines/                                                    | Holding gov't accountable.                           |
 
