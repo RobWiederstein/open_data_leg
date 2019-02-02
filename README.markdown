@@ -86,8 +86,8 @@ The Commonwealth Office of Technology is advised by two statutorily established 
 
 ### Machine Readable, Liquid and Shareable Formats
 
-According to the [Open Data Handbook](http://opendatahandbook.org/glossary/en/terms/machine-readable/), machine readable data can be automatically read by a computer like csv (comma separated values), json (java script object notation), or xml (extensible markup language). The opposite of machine readable is human readable and would include non-structured data like handwriting and pdfs.  While pdfs are digital, a computer struggles to convert pdf tables into a machine readable format.  While the conversion is possible, it requires additional steps and can result in errors.  (For example, [Tabula](https://tabula.technology) can convert pdf tables into a csv format, but it is time consuming and designed for smaller data sets.)
-
+According to the [Open Data Handbook](http://opendatahandbook.org/glossary/en/terms/machine-readable/), machine readable data can be automatically read by a computer like csv (comma separated values), json (java script object notation), or xml (extensible markup language). The opposite of machine readable is human readable and would include non-structured data like handwriting and pdfs.  While pdfs are digital, a computer struggles to convert pdf tables into a machine readable format.  While the conversion is possible, it requires additional steps and can result in errors.  (For example, [Tabula](https://tabula.technology) can convert pdf tables into a csv format, but it is time consuming and designed for smaller data sets.)  In the Kentucky Administrative Regulations, "machine-readable" is defined as "information in the form of magnetic code or optical image that can be processed directly by computers and other related machines."
+[1 KAR 5:010 Accession of public records by means of electronic data processing procedures.](enactments/2019-01-31_kar_reg_5_010.pdf)
 
 ## 50 State Comparison Open Data Portals
 
