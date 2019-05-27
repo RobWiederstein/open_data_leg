@@ -228,6 +228,7 @@ In a [fiscal note](enactments/2014-02-24_utah_open_data_portal_fiscal_note.pdf),
 | White House Open Data Repo         | https://github.com/project-open-data                                                                  | White House Open Data site.                          |
 | Socrata                            | https://socrata.com                                                                                   | Cloud-based database services for public sector.     |
 | Sunlight Found. Open Data Policies | https://sunlightfoundation.com/opendataguidelines/                                                    | Holding gov't accountable.                           |
+| U.S. States Open Data Census | https://census.usopendata.org  | User Census of State Datasets  |
 
 
 
