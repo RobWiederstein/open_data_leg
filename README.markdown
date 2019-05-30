@@ -92,7 +92,7 @@ Another significant policy was adopted in 2019. CIO-110 names a Chief Data Offic
 
 #### Creation of Agency-level Data Stewards
 
-Within CIO-110, the position of "agency data steward" was created.  According to the policy, the responsibilities of the position include the following.
+Within CIO-110, the position of "agency data steward" was created.  According to the policy, the responsibilities of the position include the following:
 - Assisting in the development of the initial data inventory, including identification of high-value data elements, and shall ensure their agency supports the maintenance of the inventory in a timely fashion.
 - Developing and maintain a data source inventory describing and categorizing the data created or collected by the state agency, including geospatial data used in a state agency’s geographic information system (GIS)
 - Developing and maintain an open data catalog and machine-readable open datasets
