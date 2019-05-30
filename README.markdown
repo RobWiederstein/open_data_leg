@@ -70,6 +70,8 @@ Kentucky provides a [portal](http://kygeonet.ky.gov) for GIS data, a second [por
 
 ### Kentucky's Current Technology Structure
 
+#### Commonwealth Office of Technology
+
 Issues regarding technology are assigned to the Commonwealth Office of Technology.   [KRS 42.724](enactments/2019-01-25_krs_42.724.pdf); [KRS 42.726](enactments/2019-01-25_krs_42.726.pdf). The office was created within the Finance and Administration Cabinet.  [KRS 42.724](enactments/2019-01-25_krs_42.724.pdf). The head of the office is both its executive director and the chief information officer for the state.  While appointed by the Secretary of the Finance and Administration Cabinet, the appointment must be approved by the Governor.  [KRS 42.724](enactments/2019-01-25_krs_42.724.pdf).
 
 Among its many responsibilities, the Office of Technology is to develop
@@ -80,7 +82,27 @@ Among its many responsibilities, the Office of Technology is to develop
 
 The Commonwealth Office of Technology is advised by two statutorily established boards:  the Geographic Information Advisory Council and the Kentucky Information Technology Advisory Council.
 
- Kentucky's executive branch underwent signficant reorganization via an [executive order](enactments/2017-12-13_bevin_exec_order_.pdf) entered by Governor Bevin in 2017.  The Executive Director of the Commonwealth Office of Technology declared as the Chief Information Officer of all agencies within the Executive Branch of the state.  All "agency information technology leads" are to report to both their current cabinet/ agency head and to the Commonwealth Office of Technology's Chief Information Officer.
+#### Executive Branch Reorganization
+
+Kentucky's executive branch underwent signficant reorganization via an [executive order](enactments/2017-12-13_bevin_exec_order_.pdf) entered by Governor Bevin in 2017.  The Executive Director of the Commonwealth Office of Technology declared as the Chief Information Officer of all agencies within the Executive Branch of the state.  All "agency information technology leads" are to report to both their current cabinet/ agency head and to the Commonwealth Office of Technology's Chief Information Officer.
+
+#### Creation of the Chief Data Officer
+
+Another significant policy was adopted in 2019. CIO-110 names a Chief Data Officer (CDO) to manage the Commonwealth's data.  The CDO is responsible for maintaining standards and best practices with regard to data and acts as the Chief Data Steward as well.  Executive branch agencies shall designate at least one Agency Data Steward that (1) reports directly to the Cabinet Secretary or Agency Head; (2) acts as the liaison to the CDO/ODIA; and (3) is responsible for data stewardship within the agency.
+
+#### Creation of Agency-level Data Stewards
+
+Within CIO-110, the position of "agency data steward" was created.  According to the policy, the responsibilities of the position include the following.
+- Assisting in the development of the initial data inventory, including identification of high-value data elements, and shall ensure their agency supports the maintenance of the inventory in a timely fashion.
+- Developing and maintain a data source inventory describing and categorizing the data created or collected by the state agency, including geospatial data used in a state agency’s geographic information system (GIS)
+- Developing and maintain an open data catalog and machine-readable open datasets
+- Developing and maintain an inventory of all interfaces that describes inbound or outbound datasets generated, aggregated, stored, purchased, or shared by the state agency
+- Submitting agency’s data warehousing, data analytics, and data visualization plans to the CDO for approval prior to procurement or execution of such activities
+- Enforcing Commonwealth Data Management Policy, Data Management Standards, and Data Quality Policies and Standards, within the agency
+- Participating in Commonwealth Data Governance and Management workgroups and subcommittees as appropriate
+- Participating in Commonwealth Data Plan activities and lead Agency Data Management planning, including the development of roadmaps and tracking, reporting, and managing roadmap implementation.
+
+All data-sharing partners to the Commonwealth, as well, shall designate a Data Steward (or the equivalent) and provide data inventory and maintenance support within the limits of their data sharing agreement.
 
 ![Office of Technology Organization Chart](imgs/2018-01-04_ky_office_of_technology_organizatoinal_chart.png)
 
